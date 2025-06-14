@@ -11,8 +11,9 @@ Designed to simulate a real-world FP&A deliverable, the model allows users to an
 
 ---
 ## 📁 Files Included  
-[3-statement-smoothie-model.xlsx](./3-statement-smoothie-model.xlsx): Excel file containing all financial statements, assumptions, CapEx schedules, and interactive dashboard
+[SB_Smoothie_3_Statement_Financial_Model.xlsx](./SB_Smoothie_3_Statement_Financial_Model.xlsx): Excel file containing all financial statements, assumptions, CapEx schedules, and interactive dashboard
 
+[![SB Smoothie 3-Statement Model](https://img.shields.io/badge/SB_Smoothie_3_Statement_Financial_Model.xlsx-blue?style=for-the-badge)](./SB_Smoothie_3_Statement_Financial_Model.xlsx)
 ---
 
 ## 🧠 Key Features
