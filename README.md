@@ -7,6 +7,9 @@ Designed to simulate a real-world FP&A deliverable, the model allows users to an
 
 ---
 
+![Smoothie Shop Financial Dashboard](./dashboard_screenshot.png)
+
+---
 ## 📁 Files Included  
 [3-statement-smoothie-model.xlsx](./3-statement-smoothie-model.xlsx): Excel file containing all financial statements, assumptions, CapEx schedules, and interactive dashboard
 
