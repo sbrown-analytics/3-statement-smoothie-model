@@ -10,12 +10,8 @@ Designed to simulate a real-world FP&A deliverable, the model allows users to an
 ![Smoothie Shop Financial Dashboard](./dashboard_screenshot.png)
 
 ---
-## 📁 Files Included  
-[3 Statement Financial Model](https://github.com/sbrown-analytics/3-statement-smoothie-model/blob/main/SB_Smoothie_3_Statement_Financial_Model.xlsx): Excel file containing all financial statements, assumptions, CapEx schedules, and interactive dashboard
 
----
-
-📥 [Download the Excel File](https://raw.githubusercontent.com/sbrown-analytics/3-statement-smoothie-model/main/SB_Smoothie_3_Statement_Financial_Model.xlsx)
+### 📥 [Download the Excel File](https://raw.githubusercontent.com/sbrown-analytics/3-statement-smoothie-model/main/SB_Smoothie_3_Statement_Financial_Model.xlsx)
 
 > ⚠️ For full functionality (dashboard + charts), download and open in **Excel Desktop**. Online previews won't display correctly.
 
