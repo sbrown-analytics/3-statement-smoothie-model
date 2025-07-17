@@ -15,6 +15,12 @@ Designed to simulate a real-world FP&A deliverable, the model allows users to an
 
 ---
 
+📥 [Download the Excel File](https://raw.githubusercontent.com/sbrown-analytics/3-statement-smoothie-model/main/SB_Smoothie_3_Statement_Financial_Model.xlsx)
+
+> ⚠️ For full functionality (dashboard + charts), download and open in **Excel Desktop**. Online previews won't display correctly.
+
+---
+
 ## 🧠 Key Features
 
 ### 🔢 Income Statement  
