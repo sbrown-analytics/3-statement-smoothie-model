@@ -11,7 +11,7 @@ Designed to simulate a real-world FP&A deliverable, the model allows users to an
 
 ---
 ## 📁 Files Included  
-[3 Statement Financial Model](./SB_Smoothie_3_Statement_Financial_Model.xlsx): Excel file containing all financial statements, assumptions, CapEx schedules, and interactive dashboard
+[3 Statement Financial Model](SB_Smoothie_3_Statement_Financial_Model.xlsx): Excel file containing all financial statements, assumptions, CapEx schedules, and interactive dashboard
 
 ---
 
